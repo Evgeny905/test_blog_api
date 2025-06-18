@@ -25,7 +25,7 @@ SECRET_KEY = 'pkg7n72nd8c=-37wmj@rg-6a57#**4efms)wo0&6agqecwvf$h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
